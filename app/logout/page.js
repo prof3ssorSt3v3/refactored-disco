@@ -1,6 +1,6 @@
-import { redirect } from 'next/server';
+// import { redirect } from 'next/server';
 
 export default function Page() {
-  redirect('/');
+  // redirect('/');
   return <div>Logout page</div>;
 }
