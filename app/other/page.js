@@ -11,7 +11,7 @@ export default function Home() {
       </header>
       <NavBar session={session} />
       <section className="py-2 px-4">
-        <h2 className="text-lg">Home page</h2>
+        <h2 className="text-lg">Other page</h2>
       </section>
     </main>
   );
